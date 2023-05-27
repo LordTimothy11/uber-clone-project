@@ -1,0 +1,24 @@
+.help{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.help_main{
+    width: 90%;
+    display: flex;
+    column-gap: 85%;
+    padding-left: 5.5%;
+    align-items: center;
+}
+
+.help_left{
+    font-size: larger;
+}
+
+
+.help_right_ul {
+    width: 80%;
+    display: flex;
+    column-gap: 20%;
+}

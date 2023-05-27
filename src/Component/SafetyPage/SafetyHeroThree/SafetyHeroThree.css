@@ -1,0 +1,64 @@
+.safetyherothree{
+    width: 100%;
+}
+
+.safetyherothree_main{
+    width: 90%;
+    padding-top: 7%;
+}
+
+.safetyherothree_main h2{
+     width: 65%;
+     font-size: xx-large;
+     padding-left: 4%;
+}
+
+
+.safetyherothree_one{
+    width: 90%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 6%;
+    padding-left: 12%;
+    text-align: left;
+}
+
+.safetyherothree_one h3{
+    font-weight: 600;
+}
+
+.safetyherothree_one p{
+    width: 100%;
+}
+
+.safetyherothree_mainthree{
+    padding-top: 6%;
+}
+
+.safetyherothree_mainthree h2{
+    width: 50%;
+    font-size: xx-large;
+    padding-left: 6%;
+
+}
+
+.safetyherothree_subthree{
+    width: 84%;
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: left;
+    padding-left: 11%;
+}
+
+.safetyherothree_subthree h3{
+    font-weight: 600;
+}
+
+.safetyherothree_subthree p{
+    width: 95%;
+    font-size: 100%;
+}
+
+.safetyherothree_sub_ptag{
+    padding-top: 4%;
+}

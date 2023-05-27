@@ -1,0 +1,71 @@
+.riderinfo{
+    width: 100%;
+}
+
+.riderinfo_ptag{
+    display: flex;
+    padding-left: 5%;
+    margin: 0%;
+    background-color: black;
+    color: white;
+    height: 8vh;
+    align-items: center;
+    font-size: x-large;
+}
+
+.ride_top{
+    width: 50%;
+}
+
+.riderinfo_ptag_two{
+    width: 30%;
+    font-size: x-large;
+    font-weight: 300;
+    padding-left: 32%;
+    padding-top: 8%;
+}
+
+.riderinfo_main_input{
+    width: 26%;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-left: 37%;
+}
+
+.riderinfo_input{
+    font-size: medium;
+    font-weight: lighter;
+    width: 75%;
+    padding: 15px;
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(226, 226, 226);
+    color: black;
+}
+
+.riderinfo_two_input{
+    width: 29%;
+    display: grid;
+    grid-template-columns: 28% 67.5%;
+    padding-top: 1%;
+    padding-left: 37%;
+}
+
+.riderinfo_last_input{
+    font-size: medium;
+    font-weight: lighter;
+    width: 65%;
+    padding: 15px;
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(226, 226, 226);
+    color: black;
+}
+
+.riderinfo_bottom{
+    width: 80%;
+    display: flex;
+    column-gap: 15%;
+    padding-top: 4%;
+    padding-left: 37.5%;
+}

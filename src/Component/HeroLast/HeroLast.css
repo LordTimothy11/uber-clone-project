@@ -1,0 +1,19 @@
+.herolast{
+    width: 90%;
+    height: 13rem;
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 4%;
+    padding-left: 7%;
+    align-items: center;
+    text-align: left;
+}
+
+.herolast h2{
+    color: black;
+    font-size: xx-large;
+}
+
+.herolast_faarrow{
+    padding-left: 45%;
+}

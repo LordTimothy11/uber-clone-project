@@ -1,0 +1,90 @@
+.herofour{
+    width: 100%;
+    height: 24rem;
+    background-color: rgb(240, 240, 240);
+}
+
+.herofour_one{
+    width: 90%;
+    font-size: x-large;
+    padding-top: 1%;
+}
+
+.herofour_one h2{
+    width: 60%;
+}
+
+.herofour_two{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-left: 7%;
+}
+
+.herofour_twoleft{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    width: 90%;
+    height: 12rem;
+    background-color: white;
+    padding-left: 6%;
+}
+
+.herofour_subtwo{
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 8.2rem;
+}
+
+.herofour_subtwo h3{ 
+   width: 80%;
+   font-size: xx-large;
+   font-weight: bold;
+   padding-top: 14%;
+   padding-left: 16%;
+   text-align: left;
+}
+
+.herofour_subtwo_two{
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 8.2rem;
+}
+
+.herofour_subtwo_two h3{ 
+   width: 100%;
+   font-size: xx-large;
+   font-weight: bold;
+   padding-top: 28%;
+   padding-left: 12%;
+   text-align: left;
+}
+
+.herofour_subtworight p{
+    width: 90%;
+    font-weight: bold;
+    padding-top: 14%;
+    padding-left: 4%;
+    align-items: center;
+}
+
+.herofour_tworight{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    width: 90%;
+    height: 12rem;
+    background-color: white;
+    padding-left: 6%;
+}
+
+.faarrowright{
+    padding-left: 10%;
+}
+
+.herofour_faarrow{
+    padding-left: 2%;
+    width: 50px;
+    height: 40px;
+}

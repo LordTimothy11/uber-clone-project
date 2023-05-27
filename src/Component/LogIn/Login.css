@@ -1,0 +1,46 @@
+.login{
+    width: 90%;
+    display: grid;
+    grid-template-columns: 45% 30%;
+    padding-top: 6%;
+    padding-left: 8%;
+    column-gap: 12%;
+    text-align: left;
+}
+
+.login_top{
+    width: 20%;
+    padding-top: 6%;
+    padding-left: 80%;
+}
+
+.login_top_ioclose{
+    color: black;
+    width: 40px;
+    height: 40px;
+}
+
+.login nav ul li  a{
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.login_toorder{
+    color: black;
+    width: 99%;
+    display: flex;
+}
+
+.login_faarrow{
+    padding-left: 20%;
+}
+
+.login_faarrow_toorder{
+    width: 37px;
+    height: 37px;
+    padding-left: 10%;
+}
+
+
+

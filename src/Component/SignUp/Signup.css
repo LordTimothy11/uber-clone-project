@@ -1,0 +1,45 @@
+.signup{
+    width: 90%;
+    display: grid;
+    grid-template-columns: 45% 40%;
+    padding-top: 6%;
+    padding-left: 6%;
+    column-gap: 6%;
+    text-align: left;
+}
+
+.signup_top{
+    width: 20%;
+    padding-top: 6%;
+    padding-left: 80%;
+}
+
+.signup_top_ioclose{
+    color: black;
+    width: 40px;
+    height: 40px;
+}
+
+.signup nav ul li  a{
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.signup_faarrow{
+    padding-left: 14%;
+}
+
+.signup_toorder{
+    color: black;
+    width: 95%;
+    display: flex;
+}
+
+.signup_faarrow_toorder{
+    width: 32px;
+    height: 32px;
+    padding-left: 12%;
+}
+
+

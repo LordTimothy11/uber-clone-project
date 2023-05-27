@@ -1,0 +1,32 @@
+.language{
+    width: 100%;
+}
+
+.language_one{
+    width: 65%;
+    padding-top: 6%;
+}
+
+.language_up{
+    width: 90%;
+    font-size: xx-large;
+    font-weight: bold;  
+}
+
+.language_down{
+    width: 28%;
+    height: 9vh;
+    margin-left: 18%;
+    margin-top: 10%;
+    background-color: rgb(226, 226, 226);
+    border: none;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: normal;
+}
+
+.language_down p{
+    width: 4%;
+    padding-left: 6%;
+    padding-top: 5%;
+}
