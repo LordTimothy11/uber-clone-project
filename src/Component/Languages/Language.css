@@ -4,7 +4,6 @@
 
 .language_one{
     width: 65%;
-    padding-top: 6%;
 }
 
 .language_up{
@@ -13,20 +12,29 @@
     font-weight: bold;  
 }
 
+.language_icon{
+    padding-top: 4%;
+    padding-left: 73%;
+}
+
+.language_top_ioclose{
+    color: black;
+    width: 40px;
+    height: 40px;
+}
+
 .language_down{
-    width: 28%;
+    width: 65%;
     height: 9vh;
-    margin-left: 18%;
+}
+
+.language_down select{
+    width: 42%;
+    height: 9vh;
     margin-top: 10%;
     background-color: rgb(226, 226, 226);
     border: none;
     border-radius: 10px;
     font-size: larger;
     font-weight: normal;
-}
-
-.language_down p{
-    width: 4%;
-    padding-left: 6%;
-    padding-top: 5%;
 }
